@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋 Meu nome é Marcelo Schemmer e eu amo programar !</h2>
+<h2 align="left">Olá 👋 Meu nome é Marcelo Schemmer e eu AMO programar !</h2>
 
 ###
 
