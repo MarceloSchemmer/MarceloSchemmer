@@ -72,5 +72,5 @@
 
 ###
 
-<h2>Servidores</h2>
-<p>Minha experiencia como sysadmin na criação de programas/scripts na automação de tarefas para a continuidade de servidores atuando em 99.99% (em especial com servidores virtualizados com XenServer) e também a criação de programas para administrar serviços instalados neles.</p>
+<!-- <h2>Marcelo Schemmer</h2> -->
+<p>Olá, me chamo Marcelo Schemmer e sou desenvolvedor de sistemas multi-plataformas, com enfoque em aplicativos móveis e servidores backend. Atualmente, já publiquei mais de 13 aplicativos para Android e iOS, destinados ao setor de automação comercial e industrial. Realizo todo o processo, desde a prototipagem e análise de mercado, até o desenvolvimento do aplicativo completo e das API's do lado do servidor.</p>
