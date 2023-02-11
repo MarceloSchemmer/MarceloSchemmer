@@ -84,5 +84,5 @@
 <h2>Projetos públicos que já participei</h2>
 <p>Durante o andamento de alguns cursos que estudei, foram desenvolvidos algumas plataforma que valem a pena ser destacadas</p>
 <ul>
-<li>teste</li>  
+<li>Plataforma clone do iFood,multi-tenancy, incluindo aplicativos para Android, iOS e Web para consumidores, com acesso às lojas disponíveis por região. Ela também possui um backoffice desktop e web, impressão automática e gateways de pagamento, além de um servidor back-end seguro com token JWT. </li>  
 </ul>
