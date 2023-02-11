@@ -71,3 +71,6 @@
 <br clear="both">
 
 ###
+
+<h2>Servidores</h2>
+<p>Minha experiencia como sysadmin na criação de programas/scripts na automação de tarefas para a continuidade de servidores atuando em 99.99% (em especial com servidores virtualizados com XenServer) e também a criação de programas para administrar serviços instalados neles.</p>
