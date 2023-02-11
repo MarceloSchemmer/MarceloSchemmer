@@ -87,4 +87,5 @@
 <li>Plataforma clone do iFood,multi-tenancy, incluindo aplicativos para Android, iOS e Web para consumidores, com acesso às lojas disponíveis por região. Ela também possui um backoffice desktop e web, impressão automática e gateways de pagamento, além de um servidor back-end seguro com token JWT. </li> 
  <li>Um sistema completo e personalizável para agendamento de serviços em geral parecido com o get ninjas, incluindo eletricista, encanador, carpinteiro, pedreiro, etc., está disponível nas plataformas Android e iOS.</li>
  <li>Uma plataforma para academias, onde os alunos recebem treinos através de um painel de personal trainers. Lá, eles têm acesso a exemplos de exercícios e podem se envolver socialmente uns com os outros, pontuando e destacando os melhores na linha do tempo semanalmente, de forma lúdica.</li>
+ <li>Um aplicativo simples para controle de mesa, onde o garçom pode anotar pedidos, transferir comandas, fechar contas e enviar comandas diretamente para a cozinha. Ele é notificado em seu dispositivo sempre que um pedido estiver pronto na cozinha, onde existe outro aplicativo que mantém a comunicação com todos no restaurante.</li>
 </ul>
