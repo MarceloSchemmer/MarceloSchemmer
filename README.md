@@ -80,3 +80,9 @@
 
 <h2>Sistemas Front-end</h2>
 <p>Atualmente, meu foco é o desenvolvimento móvel para arquiteturas Android e iOS. Como mencionado anteriormente, gosto de planejar o design antes de começar o desenvolvimento, por isso, realizo uma pesquisa de mercado antes de iniciar qualquer novo projeto. Eu passo pela etapa de prototipagem e somente depois da aprovação, avanço para o desenvolvimento, evitando assim retrabalho ou surpresas no meio do projeto. Como ferramenta, hoje eu uso o Delphi Firemonkey, onde o código é "traduzido" para a linguagem nativa, permitindo acesso a todos os recursos disponíveis no dispositivo. Além disso, no que diz respeito ao desenvolvimento de aplicativos, tenho conhecimento em seguir os requisitos de cada loja de aplicativos e sempre procuro me atualizar sobre as novidades.</p> 
+
+<h2>Projetos públicos que já participei</h2>
+<p>Durante o andamento de alguns cursos que estudei, foram desenvolvidos algumas plataforma que valem a pena ser destacadas</p>
+<ul>
+<li>teste</li>  
+</ul>
