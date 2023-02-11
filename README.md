@@ -74,3 +74,7 @@
 
 <!-- <h2>Marcelo Schemmer</h2> -->
 <p>Olá, me chamo Marcelo Schemmer e sou desenvolvedor de sistemas multi-plataformas, com enfoque em aplicativos móveis e servidores backend. Atualmente, já publiquei mais de 13 aplicativos para Android e iOS, destinados ao setor de automação comercial e industrial. Realizo todo o processo, desde a prototipagem e análise de mercado, até o desenvolvimento do aplicativo completo e das API's do lado do servidor.</p>
+
+<h2>Servidores back-end</h2>
+<p>Minha experiência em servidores back-end envolve o uso do Delphi como principal ferramenta, aplicando alguns frameworks, como RestDataware e Horse. Atualmente, desenvolvo API's Standalone RESTFull escaláveis para a comunicação e tenho conhecimento em balanceamento de carga e alta disponibilidade.</p>
+
