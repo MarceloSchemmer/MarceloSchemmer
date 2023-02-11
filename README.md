@@ -92,6 +92,8 @@
   <li>Google Planilhas</li>
   <li>DropBox</li>
   <li>Buckets Amazon S3</li>
+  <li>Twilio</li>
+  <li>Meta WhatsApp API</li>
 </ul>
 
 <h2>Projetos públicos que já participei</h2>
