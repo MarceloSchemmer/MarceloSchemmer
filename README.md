@@ -112,7 +112,8 @@
     <li>NGINX</li>
     <li>Php,Html,Css,Js</li>
     <li>Wordpress</li>
-  
+    <li>CPanel</li>
+    <li>Moodle</li>
 </ul>
 
 
